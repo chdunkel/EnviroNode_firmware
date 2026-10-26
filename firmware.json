@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "version": "0.3.4",
+    "board": "envnode_v1",
+    "file": "envnode_v1_0.3.4.bin",
+    "date": "2026-10-26",
+    "size": 260288,
+    "sha256": "1b0dfe585fc91fd099ed4c9f383d6255e9a3d51fc744b66235abf76017f99678",
+    "min_node": "0.3.0",
+    "description": "Pressure history, hardware self-test, debug shell and logs over Bluetooth; charge 0 % / 100 % follow the AEM thresholds"
+  }
+]
