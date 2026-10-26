@@ -1,5 +1,15 @@
 [
   {
+    "version": "0.3.2",
+    "board": "envnode_v1",
+    "file": "envnode_v1_0.3.2.bin",
+    "date": "2026-10-26",
+    "size": 260240,
+    "sha256": "070605a38c2a119862e5adda941614e0e330a495c38629a12509da66346a98e5",
+    "min_node": "0.3.0",
+    "description": "Test release: online update from the app; quieter debug shell (no send-failure log lines)"
+  },
+  {
     "version": "0.3.1",
     "board": "envnode_v1",
     "file": "envnode_v1_0.3.1.bin",
