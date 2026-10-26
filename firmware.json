@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "version": "0.3.1",
+    "board": "envnode_v1",
+    "file": "envnode_v1_0.3.1.bin",
+    "date": "2026-10-26",
+    "size": 260240,
+    "sha256": "f6d68fa4ce4a47b5c28ba04f85b64cb4177e562c6ce299112a0e4a5926df6840",
+    "min_node": "0.3.0",
+    "description": "Pressure history, hardware self-test, debug shell and logs over Bluetooth"
+  }
+]
